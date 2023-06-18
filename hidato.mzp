@@ -1,0 +1,29 @@
+{
+    "builtinSolverConfigs": [
+    ],
+    "openFiles": [
+        "hidato.mzn",
+        "h0.dzn",
+        "h1.dzn",
+        "h2.dzn",
+        "h3.dzn",
+        "h4.dzn",
+        "h5.dzn"
+    ],
+    "openTab": 6,
+    "projectFiles": [
+        "h0.dzn",
+        "h1.dzn",
+        "h2.dzn",
+        "h3.dzn",
+        "h4.dzn",
+        "h5.dzn",
+        "hidato.mzc",
+        "hidato.mzn"
+    ],
+    "projectSolverConfigs": [
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.1.1",
+    "version": 105
+}
